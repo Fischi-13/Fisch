@@ -2,7 +2,7 @@
 <!-- Dieses Dokument wird von einem externen Skript gelesen und aktualisiert. -->
 
 ## Player_Profile
-<!-- Globale Daten, die zwischen den Runs bestehen bleiben. -->
+-- Globale Daten, die zwischen den Runs bestehen bleiben. --
 Name: Lukas
 Freigeschaltete_Klassen: Krieger
 Meta_Waehrung: 0
@@ -11,7 +11,7 @@ Schwierigkeitsgrad: Normal
 ---
 
 ## Aktueller_Run
-<!-- Daten, die nur für den aktuellen Durchlauf gelten. Werden bei Run-Start zurückgesetzt. -->
+-- Daten, die nur für den aktuellen Durchlauf gelten. Werden bei Run-Start zurückgesetzt. --
 Aktiv: false
 Klasse: null
 HP: 0/0
@@ -24,8 +24,8 @@ Besuchte_Raeume: []
 ---
 
 ## Run_Struktur
-<!-- Die prozedural generierte Raumabfolge für den aktuellen oder nächsten Run. -->
-<!-- Format: Index: Raumtyp -->
+-- Die prozedural generierte Raumabfolge für den aktuellen oder nächsten Run. --
+-- Format: Index: Raumtyp --
 0: Start
 1: Gegner
 2: Fragezeichen
