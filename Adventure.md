@@ -14,6 +14,9 @@ Schwierigkeitsgrad: Normal
 -- Daten, die nur für den aktuellen Durchlauf gelten. Werden bei Run-Start zurückgesetzt. --
 Aktiv: false
 Klasse: null
+Attack_damage: 5
+Defence: 3
+Block: 0
 HP: 0/0
 Gold: 0
 Inventar: Leer
