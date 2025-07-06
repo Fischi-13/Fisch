@@ -36,7 +36,7 @@ Besuchte_Raeume: []
 4: Schmied
 5: Gegner
 6: Shop
-7. Ruheort
+7: Ruheort
 8: Gegner
 9: Gebiets_Boss_1
 10: NPC
