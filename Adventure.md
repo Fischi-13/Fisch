@@ -17,7 +17,7 @@ Klasse: null
 Attack_damage: 3
 Defence: 3
 Block: 0
-HP: 0/0
+HP: 6/50
 Gold: 0
 Inventar: Leer
 Status_Effekte: Keine
