@@ -12,17 +12,17 @@ Schwierigkeitsgrad: Normal
 
 ## Aktueller_Run
 -- Daten, die nur für den aktuellen Durchlauf gelten. Werden bei Run-Start zurückgesetzt. --
-Aktiv: false
-Klasse: null
+Aktiv: true
+Klasse: Krieger
 Attack_damage: 2
 Defence: 3
 Block: 0
-HP: 49/50
+HP: 50/50
 Gold: 0
-Inventar: Leer
+Inventar: []
 Status_Effekte: Keine
-Aktueller_Raum_Index: -1
-Besuchte_Raeume: []
+Aktueller_Raum_Index: 0
+Besuchte_Raeume: 
 
 ---
 
@@ -32,30 +32,30 @@ Besuchte_Raeume: []
 0: Start
 1: Gegner
 2: Fragezeichen
-3: Event
-4: Schmied
-5: Gegner
-6: Shop
+3: Gegner
+4: Event
+5: Schmied
+6: Gegner
 7: Ruheort
-8: Gegner
+8: Shop
 9: Gebiets_Boss_1
-10: NPC
-11: Fragezeichen
-12: Gegner
-13: Event
+10: Gegner
+11: NPC
+12: Fragezeichen
+13: Gegner
 14: Raetsel
-15: Ruheort
-16: Shop
-17: Gegner
-18: Gegner
+15: Schmied
+16: Gegner
+17: Shop
+18: Ruheort
 19: Gebiets_Boss_2
-20: Schmied
-21: Fragezeichen
-22: Ruheort
+20: Gegner
+21: Event
+22: Fragezeichen
 23: Gegner
-24: Event
-25: Shop
-26: Gegner
-27: Raetsel
-28: Ruheort
+24: Schmied
+25: Gegner
+26: Shop
+27: Ruheort
+28: End_Boss
 29: Final_Boss
