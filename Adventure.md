@@ -20,21 +20,21 @@ Block: 1
 HP: 25/25
 Gold: 0
  
-Kartenstapel: []
-Hand: Angriff2xA (1 AP), Angriff3xA (2 AP)
-Ablagestapel: Block1xB (1 AP), Angriff1xA (1 AP)
+Kartenstapel: [Angriff1xA (1 AP), Angriff2xA (1 AP), Angriff3xA (2 AP), Block1xB (1 AP)]
+Hand: []
+Ablagestapel: []
 AP: 3
 
 Inventar: []
 Status_Effekte: Keine
 Stacks: {Gift: 0, Lust: 0, Schwäche: 0}
-Aktueller_Raum_Index: 28
-Besuchte_Raeume: 
+Aktueller_Raum_Index: 0
+Besuchte_Raeume: []
 
+---
 
-
-
-24,28
+## Run_Struktur
+-- Die prozedural generierte Raumabfolge für den aktuellen oder nächsten Run. --
 -- Format: Index: Raumtyp --
 Räume: [
 0: Start
