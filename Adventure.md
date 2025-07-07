@@ -28,7 +28,7 @@ AP: 3
 Inventar: []
 Status_Effekte: Keine
 Stacks: {Gift: 0, Lust: 0, Schwäche: 0}
-Aktueller_Raum_Index: 0
+Aktueller_Raum_Index: 24
 Besuchte_Raeume: []
 
 ---
