@@ -28,13 +28,13 @@ AP: 2
 Inventar: []
 Status_Effekte: Keine
 Stacks: {Gift: 0, Lust: 0, Schwäche: 0}
-Aktueller_Raum_Index: 24
+Aktueller_Raum_Index: 28
 Besuchte_Raeume: 
 
 
 
 
-24
+24, 28
 -- Format: Index: Raumtyp --
 Räume: [
 0: Start
