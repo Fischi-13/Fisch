@@ -34,7 +34,7 @@ Besuchte_Raeume:
 
 
 
--- Die prozedural generierte Raumabfolge für den aktuellen oder nächsten Run. --
+24
 -- Format: Index: Raumtyp --
 Räume: [
 0: Start
