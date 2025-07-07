@@ -18,7 +18,7 @@ Standarddeck für Klasse: Angriff1xA (1 AP), Angriff2xA (1 AP), Angriff3xA (2 AP
 Attack_damage: 2
 Block: 1
 HP: 25/25
-Gold: 0
+Gold: 999
  
 Kartenstapel: [Angriff1xA (1 AP), Angriff2xA (1 AP), Angriff3xA (2 AP), Block1xB (1 AP)]
 Hand: []
