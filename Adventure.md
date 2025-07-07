@@ -14,15 +14,16 @@ Schwierigkeitsgrad: Normal
 -- Daten, die nur für den aktuellen Durchlauf gelten. Werden bei Run-Start zurückgesetzt. --
 Aktiv: true
 Klasse: Krieger
+Standarddeck für Klasse: Angriff1xA (1 AP), Angriff2xA (1 AP), Angriff3xA (2 AP), Block1xB (1 AP)
 Attack_damage: 2
 Defence: 3
 Block: 0
 HP: 50/50
 Gold: 0
-
-Standarddeck: Angriff1xA (1 AP), Angriff2xA (1 AP), Angriff3xA (2 AP), Block1xB (1 AP)
-Kartenstapel: []
+ 
+Kartenstapel: [Angriff1xA (1 AP), Angriff2xA (1 AP), Angriff3xA (2 AP), Block1xB (1 AP)]
 Hand: []
+Ablagestapel: []
 AP: 3
 
 Inventar: []
