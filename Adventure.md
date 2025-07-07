@@ -14,11 +14,17 @@ Schwierigkeitsgrad: Normal
 -- Daten, die nur für den aktuellen Durchlauf gelten. Werden bei Run-Start zurückgesetzt. --
 Aktiv: true
 Klasse: Krieger
-Attack_damage: 2
-Defence: 3
-Block: 0
+Attack_damage: 2 A
+Defence: 3 D
+Block: 0 B
 HP: 50/50
 Gold: 0
+
+Standarddeck: Angriff1xA, Angriff2xA, Angriff3xA, Block1xB
+Kartenstapel: []
+Hand: []
+AP: 3
+
 Inventar: []
 Status_Effekte: Keine
 Aktueller_Raum_Index: 0
@@ -53,9 +59,8 @@ Besuchte_Raeume:
 21: Event
 22: Fragezeichen
 23: Gegner
-24: Schmied
-25: Gegner
-26: Shop
-27: Ruheort
-28: End_Boss
-29: Final_Boss
+24: Shop
+25: Gebiets_Boss_3
+26: Ruheort
+27: Gegner
+28: Final_Boss
