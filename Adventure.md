@@ -34,7 +34,7 @@ Besuchte_Raeume:
 
 
 
-24, 28
+24,28
 -- Format: Index: Raumtyp --
 Räume: [
 0: Start
