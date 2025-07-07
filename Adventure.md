@@ -36,7 +36,8 @@ Besuchte_Raeume: []
 ## Run_Struktur
 -- Die prozedural generierte Raumabfolge für den aktuellen oder nächsten Run. --
 -- Format: Index: Raumtyp --
-Räume: [ 0: Start
+Räume: [
+0: Start
 1: Fragezeichen
 2: Gegner
 3: Gegner
@@ -96,4 +97,5 @@ Räume: [ 0: Start
 57: Fragezeichen
 58: Gegner
 59: Shop
-60: Final_Boss]
+60: Final_Boss
+]
