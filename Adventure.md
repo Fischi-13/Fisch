@@ -16,14 +16,14 @@ Aktiv: true
 Klasse: Krieger
 Standarddeck für Klasse: Angriff1xA (1 AP), Angriff2xA (1 AP), Angriff3xA (2 AP), Block1xB (1 AP)
 Attack_damage: 2
-Block: 0
+Block: 1
 HP: 25/25
-Gold: 99
+Gold: 0
  
 Kartenstapel: []
 Hand: Angriff2xA (1 AP), Angriff3xA (2 AP)
 Ablagestapel: Block1xB (1 AP), Angriff1xA (1 AP)
-AP: 4
+AP: 3
 
 Inventar: []
 Status_Effekte: Keine
