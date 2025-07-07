@@ -17,7 +17,7 @@ Klasse: Krieger
 Standarddeck für Klasse: Angriff1xA (1 AP), Angriff2xA (1 AP), Angriff3xA (2 AP), Block1xB (1 AP)
 Attack_damage: 2
 Block: 1
-HP: 25/25
+HP: 24/25
 Gold: 0
  
 Kartenstapel: [Angriff1xA (1 AP), Angriff2xA (1 AP), Angriff3xA (2 AP), Block1xB (1 AP)]
