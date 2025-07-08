@@ -30,7 +30,7 @@ Inventar: []
 Status_Effekte: Keine
 Stacks: {Gift: 0, Lust: 0, Schwäche: 0}
 Aktueller_Raum_Index: 35
-Besuchte_Raeume: 34,35
+Besuchte_Raeume: 34, 35
 
 ---
 
