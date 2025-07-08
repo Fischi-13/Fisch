@@ -24,7 +24,7 @@ Spitzname: Cumdump
 Kartenstapel: []
 Hand: Angriff1xA (1 AP), Angriff2xA (1 AP), Angriff3xA (2 AP), Block1xB (1 AP)
 Ablagestapel: []
-AP: 3
+AP: 5
 
 Inventar: []
 Status_Effekte: Keine
